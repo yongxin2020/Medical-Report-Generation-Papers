@@ -20,10 +20,11 @@ This is a paper list for medical report generation, and more specifically for te
 1. **Prompt Engineering for Healthcare: Methodologies and Applications** *Jiaqi Wang, Enze Shi, Sigang Yu, Zihao Wu, Chong Ma, Haixing Dai, Qiushi Yang, Yanqing Kang, Jinru Wu, Huawen Hu, Chenxi Yue, Haiyang Zhang, Yiheng Liu, Xiang Li, Bao Ge, Dajiang Zhu, Yixuan Yuan, Dinggang Shen, Tianming Liu, Shu Zhang* `arXiv (April 2023)` [[pdf]](https://arxiv.org/abs/2304.14670) ![](https://img.shields.io/badge/prompt_engineering-blue)
 <!---1. **A** *B* `C (March 2021)` [[pdf]](D)--->
 
-## General Papers on Evaluation
+## Evaluation for NLG (MRG)
 1. **Why We Need New Evaluation Metrics for NLG** *Jekaterina Novikova, Ondřej Dušek, Amanda Cercas Curry, Verena Rieser* `EMNLP 2017` [[pdf]](https://aclanthology.org/D17-1238/)
 1. **A Structured Review of the Validity of BLEU** *Ehud Reiter* `Computational Linguistics (2018)` [[pdf]](https://direct.mit.edu/coli/article/44/3/393/1598/A-Structured-Review-of-the-Validity-of-BLEU)
 1. **Twenty Years of Confusion in Human Evaluation: NLG Needs Evaluation Sheets and Standardised Definitions** *David M. Howcroft, Anya Belz, Miruna-Adriana Clinciu, Dimitra Gkatzia, Sadid A. Hasan, Saad Mahamood, Simon Mille, Emiel van Miltenburg, Sashank Santhanam, Verena Rieser* `INLG 2020` [[pdf]](https://aclanthology.org/2020.inlg-1.23/)
+1. **Consultation Checklists: Standardising the Human Evaluation of Medical Note Generation** *Aleksandar Savkov, Francesco Moramarco, Alex Papadopoulos Korfiatis, Mark Perera, Anya Belz, Ehud Reiter* `EMNLP 2022` [[pdf]](https://aclanthology.org/2022.emnlp-industry.10/) ![](https://img.shields.io/badge/medical_note_generation-blue)
 <!---1. **A** *B* `C (March 2021)` [[pdf]](D)--->
 
 ## Dataset
