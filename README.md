@@ -20,11 +20,26 @@ This is a paper list for medical report generation, and more specifically for te
 1. **Prompt Engineering for Healthcare: Methodologies and Applications** *Jiaqi Wang, Enze Shi, Sigang Yu, Zihao Wu, Chong Ma, Haixing Dai, Qiushi Yang, Yanqing Kang, Jinru Wu, Huawen Hu, Chenxi Yue, Haiyang Zhang, Yiheng Liu, Xiang Li, Bao Ge, Dajiang Zhu, Yixuan Yuan, Dinggang Shen, Tianming Liu, Shu Zhang* `arXiv (April 2023)` [[pdf]](https://arxiv.org/abs/2304.14670) ![](https://img.shields.io/badge/prompt_engineering-blue)
 <!---1. **A** *B* `C (March 2021)` [[pdf]](D)--->
 
-## Evaluation for NLG (MRG)
+## Evaluation
 1. **Why We Need New Evaluation Metrics for NLG** *Jekaterina Novikova, Ondřej Dušek, Amanda Cercas Curry, Verena Rieser* `EMNLP 2017` [[pdf]](https://aclanthology.org/D17-1238/)
 1. **A Structured Review of the Validity of BLEU** *Ehud Reiter* `Computational Linguistics (2018)` [[pdf]](https://direct.mit.edu/coli/article/44/3/393/1598/A-Structured-Review-of-the-Validity-of-BLEU)
 1. **Twenty Years of Confusion in Human Evaluation: NLG Needs Evaluation Sheets and Standardised Definitions** *David M. Howcroft, Anya Belz, Miruna-Adriana Clinciu, Dimitra Gkatzia, Sadid A. Hasan, Saad Mahamood, Simon Mille, Emiel van Miltenburg, Sashank Santhanam, Verena Rieser* `INLG 2020` [[pdf]](https://aclanthology.org/2020.inlg-1.23/)
 1. **Consultation Checklists: Standardising the Human Evaluation of Medical Note Generation** *Aleksandar Savkov, Francesco Moramarco, Alex Papadopoulos Korfiatis, Mark Perera, Anya Belz, Ehud Reiter* `EMNLP 2022` [[pdf]](https://aclanthology.org/2022.emnlp-industry.10/) ![](https://img.shields.io/badge/medical_note_generation-blue)
+<!---1. **A** *B* `C (March 2021)` [[pdf]](D)--->
+
+## LLM Era ![](https://img.shields.io/badge/NEW-red)
+1. **shs-nlp at RadSum23: Domain-Adaptive Pre-training of Instruction-tuned LLMs for Radiology Report Impression Generation** *Sanjeev Kumar Karn, Rikhiya Ghosh, Kusuma P, Oladimeji Farri* `BioNLP 2023` [[pdf]](https://aclanthology.org/2023.bionlp-1.57/)
+1. **Generation of Radiology Findings in Chest X-Ray by Leveraging Collaborative Knowledge** *Manuela Daniela Danu, George Marica, Sanjeev Kumar Karn, Bogdan Georgescu, Awais Mansoor, Florin Ghesu, Lucian Mihai Itu, Constantin Suciu, Sasa Grbic, Oladimeji Farri, Dorin Comaniciu* `ITQM 2023` [[pdf]](https://arxiv.org/abs/2306.10448)
+1. **Evaluating Large Language Models for Radiology Natural Language Processing** *Zhengliang Liu, Tianyang Zhong, Yiwei Li, Yutong Zhang, Yi Pan, Zihao Zhao, Peixin Dong, Chao Cao, Yuxiao Liu, Peng Shu, Yaonai Wei, Zihao Wu, Chong Ma, Jiaqi Wang, Sheng Wang, Mengyue Zhou, Zuowei Jiang, Chunlin Li, Jason Holmes, Shaochen Xu, Lu Zhang, Haixing Dai, Kai Zhang, Lin Zhao, Yuanhao Chen, Xu Liu, Peilong Wang, Pingkun Yan, Jun Liu, Bao Ge, Lichao Sun, Dajiang Zhu, Xiang Li, Wei Liu, Xiaoyan Cai, Xintao Hu, Xi Jiang, Shu Zhang, Xin Zhang, Tuo Zhang, Shijie Zhao, Quanzheng Li, Hongtu Zhu, Dinggang Shen, Tianming Liu* `arXiv (July 2023)` [[pdf]](https://arxiv.org/abs/2307.13693)
+1. **Radiology-Llama2: Best-in-Class Large Language Model for Radiology** *Zhengliang Liu, Yiwei Li, Peng Shu, Aoxiao Zhong, Longtao Yang, Chao Ju, Zihao Wu, Chong Ma, Jie Luo, Cheng Chen, Sekeun Kim, Jiang Hu, Haixing Dai, Lin Zhao, Dajiang Zhu, Jun Liu, Wei Liu, Dinggang Shen, Tianming Liu, Quanzheng Li, Xiang Li* `arXiv (Aug 2023)` [[pdf]](https://arxiv.org/abs/2309.06419)
+1. **Retrieving Evidence from EHRs with LLMs: Possibilities and Challenges** *Hiba Ahsan, Denis Jered McInerney, Jisoo Kim, Christopher Potter, Geoffrey Young, Silvio Amir, Byron C. Wallace* `arXiv (Sep 2023)` [[pdf]](https://arxiv.org/abs/2309.04550)
+1. **Large language models in medicine** *Arun James Thirunavukarasu, Darren Shu Jeng Ting, Kabilan Elangovan, Laura Gutierrez, Ting Fang Tan & Daniel Shu Wei Ting* `nature medicine (July 2023)` [[pdf]](https://www.nature.com/articles/s41591-023-02448-8)
+1. **Retrieval Augmented Chest X-Ray Report Generation using OpenAI GPT models** *Mercy Ranjit, Gopinath Ganapathy, Ranjit Manuel, Tanuja Ganu* `arXiv (May 2023)` [[pdf]](https://arxiv.org/abs/2305.03660)
+1. **R2GenGPT: Radiology Report Generation with Frozen LLMs** *Zhanyu Wang, Lingqiao Liu, Lei Wang, Luping Zhou* `arXiv (Sep 2023)` [[pdf]](https://arxiv.org/abs/2309.09812)
+1. **BioSignal Copilot: Leveraging the power of LLMs in drafting reports for biomedical signals** *Chunyu Liu,  Yongpei Ma, Kavitha Kothur, Armin Nikpour, Omid Kavehei* `medrxiv (July 2023)` [[pdf]](https://www.medrxiv.org/content/10.1101/2023.06.28.23291916v1)
+1. **LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation** *Suhyeon Lee, Won Jun Kim, Jinho Chang, Jong Chul Ye* `arXiv (May 2023)` [[pdf]](https://arxiv.org/abs/2305.11490)
+1. **Large language models in medicine: the potentials and pitfalls** *Jesutofunmi A. Omiye, Haiwen Gui, Shawheen J. Rezaei, James Zou, Roxana Daneshjou* `arXiv (Aug 2023)` [[pdf]](https://arxiv.org/abs/2309.00087)
+1. **Dehallucinating Large Language Models Using Formal Methods Guided Iterative Prompting** *Susmit Jha; Sumit Kumar Jha; Patrick Lincoln; Nathaniel D. Bastian; Alvaro Velasquez; Sandeep Neema* `ICAA 2023` [[link]](https://ieeexplore.ieee.org/abstract/document/10207581)
 <!---1. **A** *B* `C (March 2021)` [[pdf]](D)--->
 
 ## Dataset
