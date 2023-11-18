@@ -129,6 +129,10 @@ This is a paper list for medical report generation, and more specifically for te
 1. **MSˆ2: Multi-Document Summarization of Medical Studies** *Jay DeYoung, Iz Beltagy, Madeleine van Zuylen, Bailey Kuehl, Lucy Wang* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.594/) [[data]](https://github.com/allenai/ms2)
 1. **A** *B* `C (March 2021)` [[pdf]](D)--->
 
+## Multi-modal ![](https://img.shields.io/badge/NEW-red)
+1. **Experience and Evidence are the eyes of an excellent summarizer! Towards Knowledge Infused Multi-modal Clinical Conversation Summarization** *Abhisek Tiwari, Anisha Saha, Sriparna Saha, Pushpak Bhattacharyya, Minakshi Dhar* `CIKM 2023` [[pdf]](https://dl.acm.org/doi/10.1145/3583780.3614870)
+<!---1. **A** *B* `C (March 2021)` [[pdf]](D)--->
+
 # Copyright
 By Yongxin Zhou (yongxin.zhou@univ-grenoble-alpes.fr) from Université Grenoble Alpes.
 **Welcome to open an issue or make a pull request!**
