@@ -95,6 +95,7 @@ This is a paper list for medical report generation, and more specifically for te
 1. **RadAdapt: Radiology Report Summarization via Lightweight Domain Adaptation of Large Language Models** *Dave Van Veen, Cara Van Uden, Maayane Attias, Anuj Pareek, Christian Bluethgen, Malgorzata Polacin, Wah Chiu, Jean-Benoit Delbrouck, Juan Manuel Zambrano Chaves, Curtis P. Langlotz, Akshay S. Chaudhari, John Pauly* `arXiv (May 2023)` [[pdf]](https://arxiv.org/abs/2305.01146)
 1. **ImpressionGPT: An Iterative Optimizing Framework for Radiology Report Summarization with ChatGPT** *Chong Ma, Zihao Wu, Jiaqi Wang, Shaochen Xu, Yaonai Wei, Zhengliang Liu, Xi Jiang, Lei Guo, Xiaoyan Cai, Shu Zhang, Tuo Zhang, Dajiang Zhu, Dinggang Shen, Tianming Liu, Xiang Li* `arXiv (May 2023)` [[pdf]](https://arxiv.org/abs/2304.08448)
 <!---1. **A** *B* `C (March 2021)` [[pdf]](D)--->
+1. **Leveraging Summary Guidance on Medical Report Summarization** *Yunqi Zhu, Xuebing Yang, Yuanyuan Wu, Wensheng Zhang* `IEEE Journal of Biomedical and Health Informatics (October 2023)` [[link]](https://ieeexplore.ieee.org/document/10214623?denied=) ![](https://img.shields.io/badge/NEW-red)
 
 ### Medical Question Summarization
 1. **Intent-aware Prompt Learning for Medical Question Summarization** *Leilei Zhang, Junfei Liu* `2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (December 2022)` [[link]](https://ieeexplore.ieee.org/document/9995317)
