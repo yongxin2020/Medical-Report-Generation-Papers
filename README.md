@@ -40,7 +40,6 @@ This is a paper list for medical report generation, and more specifically for te
 1. **BioSignal Copilot: Leveraging the power of LLMs in drafting reports for biomedical signals** *Chunyu Liu,  Yongpei Ma, Kavitha Kothur, Armin Nikpour, Omid Kavehei* `medrxiv (July 2023)` [[pdf]](https://www.medrxiv.org/content/10.1101/2023.06.28.23291916v1)
 1. **LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation** *Suhyeon Lee, Won Jun Kim, Jinho Chang, Jong Chul Ye* `arXiv (May 2023)` [[pdf]](https://arxiv.org/abs/2305.11490)
 1. **Large language models in medicine: the potentials and pitfalls** *Jesutofunmi A. Omiye, Haiwen Gui, Shawheen J. Rezaei, James Zou, Roxana Daneshjou* `arXiv (Aug 2023)` [[pdf]](https://arxiv.org/abs/2309.00087)
-1. **Dehallucinating Large Language Models Using Formal Methods Guided Iterative Prompting** *Susmit Jha; Sumit Kumar Jha; Patrick Lincoln; Nathaniel D. Bastian; Alvaro Velasquez; Sandeep Neema* `ICAA 2023` [[link]](https://ieeexplore.ieee.org/abstract/document/10207581)
 1. **Clinical Text Summarization: Adapting Large Language Models Can Outperform Human Experts** *Dave Van Veen, Cara Van Uden, Louis Blankemeier, Jean-Benoit Delbrouck, Asad Aali, Christian Bluethgen, Anuj Pareek, Malgorzata Polacin, Eduardo Pontes Reis, Anna Seehofnerova, Nidhi Rohatgi, Poonam Hosamani, William Collins, Neera Ahuja, Curtis P. Langlotz, Jason Hom, Sergios Gatidis, John Pauly, Akshay S. Chaudhari* `arXiv (Sep 2023)` [[pdf]](https://arxiv.org/abs/2309.07430)
 <!---1. **A** *B* `C (March 2021)` [[pdf]](D)--->
 
